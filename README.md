@@ -177,7 +177,4 @@ Refresh tokens
 👨‍💻 Author
 
 Mohammad Noman
-Web & App Developer | Social Media Marketing
-📧 Email: your-email@example.com
-
-🌐 GitHub: https://github.com/yourusername
+Full Stack Developer
