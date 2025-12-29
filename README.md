@@ -109,7 +109,7 @@ DELETE	/api/products/:id	Delete product
 GET /api/products?search=laptop&page=1&limit=10
 
 ⚙️ Environment Variables (.env)
-PORT=5000
+PORT=4500
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=yourpassword
@@ -136,7 +136,7 @@ npm run dev
 
 Server will run at:
 
-http://localhost:5000
+http://localhost:4500
 
 🧪 Testing
 
