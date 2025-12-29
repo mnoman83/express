@@ -1,11 +1,11 @@
-Express.js Product Management System
+📦 Express.js Product Management System
 
 A secure Product Management System built using Node.js, Express.js, and MySQL.
 This project provides user authentication and CRUD operations for products with search and pagination support.
 
-Features
+🚀 Features
 
-User Authentication
+🔐 User Authentication
 
 Login using email & password
 
@@ -13,7 +13,7 @@ JWT-based authentication
 
 Only authenticated users can access APIs
 
-Product Management
+🛒 Product Management
 
 Create products
 
@@ -23,19 +23,19 @@ Update product details
 
 Delete products
 
-Search & Pagination
+🔎 Search & Pagination
 
 Search products by name or keywords
 
 Pagination support for large datasets
 
-Database
+🗄️ Database
 
 Secure data storage using MySQL
 
 Environment-based configuration
 
-Security
+🔒 Security
 
 Password hashing
 
@@ -43,7 +43,7 @@ JWT token authorization
 
 Protected API routes
 
-API-Based Architecture
+🌐 API-Based Architecture
 
 Secure communication between frontend and backend
 
@@ -177,7 +177,7 @@ Refresh tokens
 👨‍💻 Author
 
 Mohammad Noman
-Full Stack Developer
+Web & App Developer | Social Media Marketing
 📧 Email: your-email@example.com
 
 🌐 GitHub: https://github.com/yourusername
