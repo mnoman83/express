@@ -1,3 +1,6 @@
+Postman collection APIs
+https://www.postman.com/red-desert-2509/my-workspace/overview?tab=settings
+
 📦 Express.js Product Management System
 
 A secure Product Management System built using Node.js, Express.js, and MySQL.
